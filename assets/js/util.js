@@ -2,7 +2,7 @@
 
 	/**
 	 * Generate an indented list of links from a nav. Meant for use with panel().
-	 * @return {jQuery} jQuery object.
+	 * @return {jQuery} jQuery object.Aqui esta mis modificaciones
 	 */
 	$.fn.navList = function() {
 
@@ -37,7 +37,7 @@
 	/**
 	 * Panel-ify an element.
 	 * @param {object} userConfig User config.
-	 * @return {jQuery} jQuery object.
+	 * @return {jQuery} jQuery object.2020
 	 */
 	$.fn.panel = function(userConfig) {
 
